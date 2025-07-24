@@ -1,0 +1,9 @@
+
+English: Hello, world!
+Espanol: Hola 
+French: Bonjour, le monde !
+Dutch: Hallo, Welt!
+Italian: Ciao, mondo!
+Portuguese: Olá, mundo!
+
+This sample TXT file is provided by Sample-Files.com. Visit us for more sample files and resources.
